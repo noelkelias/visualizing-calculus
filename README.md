@@ -6,5 +6,3 @@ The goal of this project is to make calculus more intuitive by connecting equati
 An interactive Jupyter notebook for exploring calculus visually through graphs, animations, and computational examples.
 
 [VisualizingCalculus.ipynb](./VisualizingCalculus.ipynb)
-
-Built with Python, Jupyter, NumPy, and Matplotlib.
